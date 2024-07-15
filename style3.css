@@ -11,3 +11,26 @@
 .style-perso {
   text-decoration: dotted;
 }
+
+.ma-div {
+  border: 2px solid red;
+  width: 80%;
+  height: 150px;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+.ma-span {
+  border: 2px solid red;
+  width: 80%;
+  height: 150px;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+.block {
+  width: 200px;
+  text-align: justify;
+  float: left;
+  margin: 0px 15px;
+}
