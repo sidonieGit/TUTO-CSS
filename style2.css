@@ -1,0 +1,19 @@
+h1 {
+  font-weight: lighter;
+  font-family: Arial;
+  text-align: center;
+  text-decoration: underline;
+  font-style: italic;
+  font-variant: small-caps;
+}
+p {
+  color: blue;
+  background: lightgreen;
+  text-align: justify;
+  /* espacement entre les lignes */
+  line-height: 30px;
+}
+
+a {
+  text-decoration: none;
+}
