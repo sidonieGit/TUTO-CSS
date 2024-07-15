@@ -1,7 +1,23 @@
-.style-paragraphe1 {
+/* .style-paragraphe1 {
     color: blue;
 }
 
 #style-paragraphe2 {
     color: rgb(62, 135, 68);
-}
+} */
+ #titre-main {
+color: red;
+ }
+ 
+ .list-element {
+    color: rgba(0, 255, 0);
+    font-weight: bold;
+ }
+
+ .text-commun {
+    color: blue;
+ }
+
+ .titre-secondaire {
+    color: pink;
+ }
